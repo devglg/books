@@ -8,7 +8,9 @@ I recommend using quickbooks for your accounting, but if you're starting and nee
 
 TO DO:
 1. Liabilities do not work completely, need a page for interest tracking.
-2. Asset tracking is very simple, and only straight line, you can use double declining if you want but the formula needs to change:
+
+
+Asset tracking is very simple, but only straight line depreciation is set, you can use double declining if you want but the formula needs to change:
 ```
 =2*C5/E5   for year 1
 =IF(H5>1,2*(C5-I5)/E5,0)   for year 2
