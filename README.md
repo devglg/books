@@ -24,4 +24,5 @@ Asset tracking is very simple, but only straight line depreciation is set, you c
 
 If you need any other depreciation schedule, just change the formula
 
-The file is given as is, with no warranty, under the Apache 2 License so, you can do almost anything you want with it. If you find it useful and wouldn't mind sending a donation to cashapp $GLGracia  :)
+The file is given as is, with no warranty, under the Apache License Version 2, so you can do almost anything you want with it. 
+If you find this worksheet useful and would like to send a donation, here’s the cashapp $GLGracia  :) Thank you!!!
